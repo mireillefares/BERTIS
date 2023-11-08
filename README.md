@@ -40,7 +40,7 @@ The main purpose of BERTIS is to automatically categorize input texts into prede
 Use the code below to get started with the model.-->
 
 # Training and Testing Details
-The data used for training, validating and testing BERTIS is found in lwachowiak's [repo] (https://github.com/lwachowiak/Systematic-Analysis-of-Image-Schemas-through-Explainable-Multilingual-Language-Models/blob/main/Data/Image%20Schemas%20English%20and%20German.csv). 
+The data used for training, validating and testing BERTIS is found in lwachowiak's [repo](https://github.com/lwachowiak/Systematic-Analysis-of-Image-Schemas-through-Explainable-Multilingual-Language-Models/blob/main/Data/Image%20Schemas%20English%20and%20German.csv). 
 
 80% of the data were used for training BERTIS, 10% for validation, and 10% for testing it.
 <!-- ### Training Procedure  This relates heavily to the Technical Specifications. Content here should link to that section when it is relevant to the training procedure. -->
