@@ -101,3 +101,6 @@ Image Schema classes. The recall scores are above 0.74 for most of the classes, 
 **License:** Academic Free License
 
 **Finetuned from model:** BERT Base Cased model
+
+## Other cool stuff
+[META4](https://github.com/mireillefares/META4/blob/main/README.md)
