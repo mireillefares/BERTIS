@@ -1,17 +1,18 @@
 # BERTIS
-This is the official repository for BERTIS, a model presented in the paper "*META4: Semantically-Aligned Generation of metaphoric gestures using self-supervised text and speech representations*".
+This is the official repository for BERTIS, a model presented in the paper ["*META4: Semantically-Aligned Generation of metaphoric gestures using self-supervised text and speech representations*"](https://arxiv.org/abs/2311.05481).
 
 This repo has information on the training and testing code of BERTIS. The model is published on [HuggingFace](https://huggingface.co/mireillfares/BERTIS).
+
+If you found this work helpful, please consider citing our paper.
 
 Bibtex:
 ```ruby
 @article{fares2023META4,
   title={META4: Semantically-Aligned Generation of metaphoric gestures using self-supervised text and speech representations},
   author={Fares, Mireille and Pelachaud, Catherine and Obin, Nicolas},
-  journal={arXiv preprint arXiv:XXX.XXX},
+  journal={arXiv preprint arXiv:2311.05481},
   year={2023}
 }
-```
 
 ## BERTIS Model Description
 BERTIS (BERT-based Image Schema) is a computational model designed to classify input texts into specific Image Schema classes. Image Schemas are cognitive patterns that play a fundamental role in shaping the way humans conceptualize and reason about various concepts present in language. BERTIS is built upon the BERT architecture. The model is fine-tuned using a specialized corpus created by *Wachowiak et al.(2022)*.
