@@ -8,7 +8,7 @@ Bibtex:
 @article{fares2023META4,
   title={META4: Semantically-Aligned Generation of metaphoric gestures using self-supervised text and speech representations},
   author={Fares, Mireille and Pelachaud, Catherine and Obin, Nicolas},
-  journal={arXiv preprint arXiv:XXX.XXX},
+  journal={arXiv preprint arXiv:2311.05481},
   year={2023}
 }
 ``` 
