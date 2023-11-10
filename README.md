@@ -1,5 +1,5 @@
 # BERTIS
-This is the official repository for BERTIS, a model presented in the paper "*META4: Semantically-Aligned Generation of metaphoric gestures using self-supervised text and speech representations*".
+This is the official repository for BERTIS, a model presented in the paper ["*META4: Semantically-Aligned Generation of metaphoric gestures using self-supervised text and speech representations*"](https://arxiv.org/abs/2311.05481)..
 
 This repo has information on the training and testing code of BERTIS. The model is published on [HuggingFace](https://huggingface.co/mireillfares/BERTIS).
 
